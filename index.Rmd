@@ -158,11 +158,14 @@ include_tweet("https://twitter.com/AdamClarkSmith/status/1382516148927918084")
 
 ---
 
-# How environmental data scientists leverage R 
+# How environmental data scientists use R 
 
 1. Mapping environmental health risks: redlining in California [code](https://github.com/daltare/Redline-Mapping), [app](https://cawaterdatadive.shinyapps.io/Redline-Mapping/)
+
 1. Assessing the effects of marine protected areas: Ovando *et al.* 2021 [preprint](https://figshare.com/articles/preprint/Assessing_the_Population-level_Conservation_Effects_of_Marine_Protected_Areas/12715409), [code](https://github.com/DanOvando/population-effects-of-mpas)
+
 1. Facilitating methodological transparency: The Ocean Health Index [Northeast Dashboard](https://ohi-northeast.shinyapps.io/ne-dashboard/)
+
 1. Tracking marine species responses to climate change: [OceanAdapt](https://github.com/pinskylab/OceanAdapt)
 
 ---
@@ -183,6 +186,7 @@ We're friendly. Just ask!
 
 # Demo 
 
+Want to try your hand at mapping historical temperature data in Europe? [Give it a go.](https://github.com/afredston/R-for-the-planet/blob/main/demo.Rmd)
 
 ---
 class: center, middle
@@ -191,8 +195,11 @@ class: center, middle
 
 Slides created via the R packages:
 
-[**xaringan**](https://github.com/yihui/xaringan)<br>
-[gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer)
+[xaringan](https://github.com/yihui/xaringan) and [xaringanthemer](https://github.com/gadenbuie/xaringanthemer)
+
+Featured code made open source by:
+
+[David Altare](https://github.com/daltare) $\bullet$ [Daniel Ovando]() $\bullet$ [Julie Lowndes, Jamie Montgomery, and Juliet Verstaen](https://github.com/OHI-Northeast/ne-dashboard)<br>  [OceanAdapt](https://oceanadapt.rutgers.edu) $\bullet$ [ROpenSci](https://ropensci.org) $\bullet$ [Mike Johnson](https://github.com/mikejohnson51)
 
 ## Contact Information
 
